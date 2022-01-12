@@ -1,6 +1,6 @@
 # Hasher
 Hasher is a Discord bot that lets you get checksum hashes of an attached file or link to a file
-----
+
 
 ### Screenshots:
 ##### Command Example
